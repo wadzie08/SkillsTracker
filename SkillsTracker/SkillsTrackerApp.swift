@@ -7,11 +7,5 @@
 
 import SwiftUI
 
-@main
-struct SkillsTrackerApp: App {
-    var body: some Scene {
-        WindowGroup {
-            welcome()
-        }
-    }
-}
+// This file is deprecated - use MatterApp.swift as the main entry point
+// The app now starts from ContentView using NavigationLink navigation
